@@ -14,3 +14,9 @@ MNIST digit images.
 5. Ensemble Classifier ( Majority Voting)
 
 After trainining the models on the MNIST image dataset, the model was used to predict image dataset of USPS.
+
+Confusion Matrices were made for each classification models.
+
+The image dataset of USPS can be found here - https://drive.google.com/file/d/1nbnN6pGagQVuZXIcbeRrktOZpHygq2n1/view?usp=sharing
+
+
